@@ -1,6 +1,6 @@
 #TARDIS-MCP
 
-A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/) Bukkit plugin. This pack takes advantage of the Connected textures Mod and Custom Item Textures available when using [MCPatcher](https://bitbucket.org/prupe/mcpatcher/wiki/Home)/[OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-b1-fps-boost-hd-textures-shaders-and) (one or the other required!).
+A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/) Bukkit plugin. This pack takes advantage of the Connected textures Mod and Custom Item Textures available when using [MCPatcher](https://bitbucket.org/prupe/mcpatcher/wiki/Home)/[OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953) (one or the other required!).
 
 ##Installation
 
@@ -19,6 +19,8 @@ Here's a quick run down on doing that:
 3. In your web browser, navigate to the TARDIS resource pack repositories
    * [TARDIS-MCP](https://github.com/eccentricdevotion/TARDIS-MCP)
    * [TARDIS-Sounds](https://github.com/eccentricdevotion/TARDIS-SoundResourcePack)
+   * [Skaro](https://github.com/eccentricdevotion/Skaro)
+   * [TARDISWeepingAngels](https://github.com/eccentricdevotion/TARDISWeepingAngels-Resource-Pack)
    * [Bromley Massive Vector](https://github.com/eccentricdevotion/Bromley-Massive-Vector)
 4. Click the green __Clone or download__ button, then the __Open in Desktop__ link
 5. Save the repository clone in the minecraft/resourcepacks folder
