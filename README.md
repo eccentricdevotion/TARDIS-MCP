@@ -1,12 +1,12 @@
-#TARDIS-MCP
+# TARDIS-MCP
 
 A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugins/tardis/) Bukkit plugin. This pack takes advantage of the Connected textures Mod and Custom Item Textures available when using [MCPatcher](https://bitbucket.org/prupe/mcpatcher/wiki/Home)/[OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953) (one or the other required!).
 
-##Installation
+## Installation
 
 Click the green __Clone or download__ button above right, then the __Download ZIP__ link, then un-zip the file to your `.minecraft/resourcepacks` folder
 
-##Alternate installation and keeping up-to-date
+## Alternate installation and keeping up-to-date
 
 As the TARDIS resource packs are shared in GitHub repositories. If you install a GitHub client, you can easily keep your resource packs current by syncing with any changes that are pushed to the repository.
 
