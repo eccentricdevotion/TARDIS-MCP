@@ -1,0 +1,18 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "./sonic_sarahjane"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [0, 90, -45],
+            "translation": [0, 0.75, 0],
+            "scale": [0.55, 0.55, 0.55]
+        },
+        "firstperson_righthand": {
+            "rotation": [0, 60, -90],
+            "translation": [0, 2, 2],
+            "scale": [0.55, 0.55, 0.55]
+        }
+    }
+}
