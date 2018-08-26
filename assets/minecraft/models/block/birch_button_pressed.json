@@ -2,17 +2,17 @@
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "blocks/handles_back",
-		"1": "blocks/handles_bottom",
-		"2": "blocks/handles_front",
-		"3": "blocks/handles_left",
-		"4": "blocks/handles_right",
-		"5": "blocks/handles_top",
-		"8": "blocks/wool_colored_lime",
-		"9": "blocks/wool_colored_light_blue",
-		"10": "blocks/wool_colored_orange",
-		"11": "blocks/wool_colored_yellow",
-		"particle": "blocks/handles_bottom"
+		"0": "block/handles_back",
+		"1": "block/handles_bottom",
+		"2": "block/handles_front_lit",
+		"3": "block/handles_left",
+		"4": "block/handles_right",
+		"5": "block/handles_top",
+		"8": "block/lime_wool",
+		"9": "block/light_blue_wool",
+		"10": "block/orange_wool",
+		"11": "block/yellow_wool",
+		"particle": "block/handles_bottom"
 	},
 	"elements": [
 		{
