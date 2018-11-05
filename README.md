@@ -4,7 +4,7 @@ A TARDIS based resource pack for the [TARDIS](http://dev.bukkit.org/bukkit-plugi
 
 ## Installation
 
-Click the green __Clone or download__ button above right, then the __Download ZIP__ link, then un-zip the file to your `.minecraft/resourcepacks` folder
+Download a zip file from the Releases page then put the file in your `.minecraft/resourcepacks` folder
 
 ## Alternate installation and keeping up-to-date
 
